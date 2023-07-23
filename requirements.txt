@@ -1,0 +1,16 @@
+aacgmv2~=2.6.3
+pandas~=2.0.3
+numpy~=1.25.1
+spacepy~=0.4.1
+pyIGRF~=0.3.3
+geospacepy~=0.2.2
+scipy~=1.11.1
+ovationpyme~=0.1.0
+Logbook~=1.5.3
+matplotlib~=3.7.2
+nasaomnireader~=0.1.0
+setuptools~=65.5.1
+Django~=4.2.3
+requests~=2.31.0
+six~=1.16.0
+pytz~=2023.3
